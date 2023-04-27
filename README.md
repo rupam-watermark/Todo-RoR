@@ -1,25 +1,23 @@
-# README
+# In Postman -CRUD Operations snaps
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+* Create todo item
 ![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/create.png?raw=true)
 
-* System dependencies
+* To show Todo list
+  ![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/showAll.png?raw=true)
+  
+* To show Todo list in pagination
+ ![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/pagination.png?raw=true)
+ 
+* To Find all todo items by tag
+ ![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/filtertag.png?raw=true)
+ 
+* Modify todo item
+ ![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/update.png?raw=true)
 
-* Configuration
+* Delete todo item
+![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/delete.png?raw=true)
 
-* Database creation
+* undo deleted todo item
+![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/undodelete.png?raw=true)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
