@@ -6,6 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+![Postman screenshot](https://github.com/rupam-watermark/Todo-RoR/blob/main/Postman-snaps/create.png?raw=true)
 
 * System dependencies
 
